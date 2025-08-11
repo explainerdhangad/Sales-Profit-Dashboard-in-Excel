@@ -60,6 +60,7 @@ Created by SHIV KUMAR – Passionate about data analysis, Excel, and dashboard c
 
 If you like this project, ⭐ the repository to show support!
 
+Dashboard :
 
-
+https://github.com/explainerdhangad/Sales-Profit-Dashboard-in-Excel/blob/main/Dashboard.png
 

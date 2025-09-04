@@ -62,5 +62,6 @@ If you like this project, ⭐ the repository to show support!
 
 Dashboard :
 
-https://github.com/explainerdhangad/Sales-Profit-Dashboard-in-Excel/blob/main/Dashboard.png
+<img width="2363" height="1118" alt="Dashboard" src="https://github.com/user-attachments/assets/08dde50d-c36a-485a-a594-b7f089662f61" />
+
 
